@@ -3,21 +3,19 @@
 I'm a data analyst with experience in data cleaning, visualization, and creating meaningful insights from complex datasets. I have a background in psychology and data analytics, and I'm passionate about using data to solve real-world problems. 
 
 ### 🔭 Projects I'm Working On
-- Building interactive dashboards to visualize Amazon Prime's TV and movie catalog
-- Exploring customer segmentation using clustering techniques
+- Building forecast models and designing financial analyses for SME's.
 - Developing a data-driven business proposal for a community food truck initiative.
 
 ### 🌱 Currently Learning
 - Advanced Power BI features, including AI-driven analysis
-- Python
 
 ### 👯 Looking to Collaborate
 - On data analysis projects related to the world of business and social impact.
-- With data scientists and analysts focused on business, social and economic challenges
+- With data scientists and analysts focused on businesses.
 
 ### 💬 Ask Me About
-- Data cleaning techniques in Excel, SQL, and Python
-- Building Power BI dashboards for storytelling and insights
+- Building forecast models.
+- Building Power BI and Tableau dashboards for storytelling and insights
 - Data analytics career advice and tips for building a portfolio
 
 ### 📫 How to Reach Me
